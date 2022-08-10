@@ -1,0 +1,50 @@
+html{
+    color: lightgrey;
+    background-color: rgb(27, 27, 27);
+    font-size: 65%;
+    font-family: 'Roboto';
+    font-weight: 300;
+}
+
+hr{
+    border: 1px solid grey;
+}
+
+.text-content{
+    margin: 0 auto;
+    max-width: 40%;
+}
+
+
+/*  NAVBAR  */
+.navbar{
+    padding: 10px;
+    font-size: 1.7rem;
+}
+
+.navbar a {
+    padding: 5px;
+}
+
+
+h1{
+    font-size: 2.5rem;
+    font-weight: 300;
+}
+p{
+    font-size: 2rem;
+}
+
+.historic{
+    font-size: 1.6rem;
+}
+
+a{
+    color: lightskyblue;
+}
+
+.output {
+    overflow: scroll;
+    margin: 1rem 0;
+    height: 200px;
+  }
